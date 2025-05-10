@@ -1,0 +1,16 @@
+[
+  {
+    "id": "pornhub",
+    "name": "Pornhub",
+    "icon": "https://www.pornhub.com/favicon.ico",
+    "description": "Trending videos from Pornhub",
+    "apiEndpoint": "https://hot-tub-api.onrender.com/pornhub"
+  },
+  {
+    "id": "youporn",
+    "name": "YouPorn",
+    "icon": "https://www.youporn.com/favicon.ico",
+    "description": "Trending videos from YouPorn",
+    "apiEndpoint": "https://hot-tub-api.onrender.com/youporn"
+  }
+]
